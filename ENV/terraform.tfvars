@@ -1,6 +1,6 @@
 envrg = {
     rg = {
-        rgname = "aksrg"
+        rgname = "aksrg1"
         location = "West Europe"
     }
 }
